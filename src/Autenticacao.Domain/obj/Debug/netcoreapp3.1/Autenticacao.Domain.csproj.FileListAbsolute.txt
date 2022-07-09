@@ -1,0 +1,9 @@
+C:\Dev\ProjetoTeste\Autenticacao\src\Autenticacao.Domain\bin\Debug\netcoreapp3.1\Autenticacao.Domain.deps.json
+C:\Dev\ProjetoTeste\Autenticacao\src\Autenticacao.Domain\bin\Debug\netcoreapp3.1\Autenticacao.Domain.dll
+C:\Dev\ProjetoTeste\Autenticacao\src\Autenticacao.Domain\bin\Debug\netcoreapp3.1\Autenticacao.Domain.pdb
+C:\Dev\ProjetoTeste\Autenticacao\src\Autenticacao.Domain\obj\Debug\netcoreapp3.1\Autenticacao.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\ProjetoTeste\Autenticacao\src\Autenticacao.Domain\obj\Debug\netcoreapp3.1\Autenticacao.Domain.AssemblyInfoInputs.cache
+C:\Dev\ProjetoTeste\Autenticacao\src\Autenticacao.Domain\obj\Debug\netcoreapp3.1\Autenticacao.Domain.AssemblyInfo.cs
+C:\Dev\ProjetoTeste\Autenticacao\src\Autenticacao.Domain\obj\Debug\netcoreapp3.1\Autenticacao.Domain.csproj.CoreCompileInputs.cache
+C:\Dev\ProjetoTeste\Autenticacao\src\Autenticacao.Domain\obj\Debug\netcoreapp3.1\Autenticacao.Domain.dll
+C:\Dev\ProjetoTeste\Autenticacao\src\Autenticacao.Domain\obj\Debug\netcoreapp3.1\Autenticacao.Domain.pdb

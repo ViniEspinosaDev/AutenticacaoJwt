@@ -1,0 +1,15 @@
+C:\Dev\ProjetoTeste\Autenticacao\src\Autenticacao.CrossCuttingIoC\bin\Debug\netcoreapp3.1\Autenticacao.CrossCuttingIoC.deps.json
+C:\Dev\ProjetoTeste\Autenticacao\src\Autenticacao.CrossCuttingIoC\bin\Debug\netcoreapp3.1\Autenticacao.CrossCuttingIoC.dll
+C:\Dev\ProjetoTeste\Autenticacao\src\Autenticacao.CrossCuttingIoC\bin\Debug\netcoreapp3.1\Autenticacao.CrossCuttingIoC.pdb
+C:\Dev\ProjetoTeste\Autenticacao\src\Autenticacao.CrossCuttingIoC\bin\Debug\netcoreapp3.1\Autenticacao.Data.dll
+C:\Dev\ProjetoTeste\Autenticacao\src\Autenticacao.CrossCuttingIoC\bin\Debug\netcoreapp3.1\Autenticacao.Domain.dll
+C:\Dev\ProjetoTeste\Autenticacao\src\Autenticacao.CrossCuttingIoC\bin\Debug\netcoreapp3.1\Autenticacao.Data.pdb
+C:\Dev\ProjetoTeste\Autenticacao\src\Autenticacao.CrossCuttingIoC\bin\Debug\netcoreapp3.1\Autenticacao.Domain.pdb
+C:\Dev\ProjetoTeste\Autenticacao\src\Autenticacao.CrossCuttingIoC\obj\Debug\netcoreapp3.1\Autenticacao.CrossCuttingIoC.csproj.AssemblyReference.cache
+C:\Dev\ProjetoTeste\Autenticacao\src\Autenticacao.CrossCuttingIoC\obj\Debug\netcoreapp3.1\Autenticacao.CrossCuttingIoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\ProjetoTeste\Autenticacao\src\Autenticacao.CrossCuttingIoC\obj\Debug\netcoreapp3.1\Autenticacao.CrossCuttingIoC.AssemblyInfoInputs.cache
+C:\Dev\ProjetoTeste\Autenticacao\src\Autenticacao.CrossCuttingIoC\obj\Debug\netcoreapp3.1\Autenticacao.CrossCuttingIoC.AssemblyInfo.cs
+C:\Dev\ProjetoTeste\Autenticacao\src\Autenticacao.CrossCuttingIoC\obj\Debug\netcoreapp3.1\Autenticacao.CrossCuttingIoC.csproj.CoreCompileInputs.cache
+C:\Dev\ProjetoTeste\Autenticacao\src\Autenticacao.CrossCuttingIoC\obj\Debug\netcoreapp3.1\Autenticacao.CrossCuttingIoC.csproj.CopyComplete
+C:\Dev\ProjetoTeste\Autenticacao\src\Autenticacao.CrossCuttingIoC\obj\Debug\netcoreapp3.1\Autenticacao.CrossCuttingIoC.dll
+C:\Dev\ProjetoTeste\Autenticacao\src\Autenticacao.CrossCuttingIoC\obj\Debug\netcoreapp3.1\Autenticacao.CrossCuttingIoC.pdb

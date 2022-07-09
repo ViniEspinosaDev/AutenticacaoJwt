@@ -1,0 +1,10 @@
+C:\Dev\ProjetoTeste\Autenticacao\src\Autenticacao.Data\bin\Debug\netcoreapp3.1\Autenticacao.Data.deps.json
+C:\Dev\ProjetoTeste\Autenticacao\src\Autenticacao.Data\bin\Debug\netcoreapp3.1\Autenticacao.Data.dll
+C:\Dev\ProjetoTeste\Autenticacao\src\Autenticacao.Data\bin\Debug\netcoreapp3.1\Autenticacao.Data.pdb
+C:\Dev\ProjetoTeste\Autenticacao\src\Autenticacao.Data\obj\Debug\netcoreapp3.1\Autenticacao.Data.csproj.AssemblyReference.cache
+C:\Dev\ProjetoTeste\Autenticacao\src\Autenticacao.Data\obj\Debug\netcoreapp3.1\Autenticacao.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\ProjetoTeste\Autenticacao\src\Autenticacao.Data\obj\Debug\netcoreapp3.1\Autenticacao.Data.AssemblyInfoInputs.cache
+C:\Dev\ProjetoTeste\Autenticacao\src\Autenticacao.Data\obj\Debug\netcoreapp3.1\Autenticacao.Data.AssemblyInfo.cs
+C:\Dev\ProjetoTeste\Autenticacao\src\Autenticacao.Data\obj\Debug\netcoreapp3.1\Autenticacao.Data.csproj.CoreCompileInputs.cache
+C:\Dev\ProjetoTeste\Autenticacao\src\Autenticacao.Data\obj\Debug\netcoreapp3.1\Autenticacao.Data.dll
+C:\Dev\ProjetoTeste\Autenticacao\src\Autenticacao.Data\obj\Debug\netcoreapp3.1\Autenticacao.Data.pdb
