@@ -49,7 +49,8 @@ namespace Autenticacao.CrossCuttingIoC
 
         private static void ConfigurarDependenciasBancoDados(IServiceCollection services, IConfiguration configuration)
         {
-            services.AddDbContext<AutenticacaoDbContext>(options => options.UseInMemoryDatabase("database"));
+            //services.AddDbContext<AutenticacaoDbContext>(options => options.UseInMemoryDatabase("database"));
+            services.AddDbContext<AutenticacaoDbContext>(options => options.UseSqlServer(configuration.GetConnectionString("SqlConnection")));
 
             services
                 .AddDefaultIdentity<IdentityUser>()
